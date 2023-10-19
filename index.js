@@ -24,3 +24,5 @@ fs.readFile('./start.txt' ,'utf-8',(err, data1) => {
         });
 });
 console.log('hello there this is an asynchronous function which is non blocking in nature');
+
+

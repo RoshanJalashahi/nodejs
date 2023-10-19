@@ -6,3 +6,5 @@
  it execute only one code at a time. 
  Asynchronous method is more applicable because it can handle other code while executing the bulk of code.
  
+
+// 10/19 routing  #ROUTING means implementing different actions for different url 
