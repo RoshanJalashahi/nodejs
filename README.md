@@ -8,3 +8,11 @@
  
 
 // 10/19 routing  #ROUTING means implementing different actions for different url 
+
+// Api 
+Simply Api is a service from which we can request data.
+
+// own modules
+module.exports = function name
+
+//NPM is a software that is basically used to manage third party open source packages that we used in our application 
