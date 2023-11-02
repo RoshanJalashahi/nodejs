@@ -1,0 +1,12 @@
+Event loop is very important function of node js.
+# working of event loop
+1> first event is emitted.
+2> Now, Event loop will look for that event.
+3> then it will perform accoording to that event 
+4> it will then call the callback function or arrow function after successfully doing that event to the particular one.
+
+note that since, node js is a single threaded so never upload a heavy task because it can block the event.
+node js can actomatically uploads a heavy task to the thread pool and does a simple task 
+
+
+## Thank you for your precious time ##
