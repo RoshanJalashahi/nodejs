@@ -6,3 +6,8 @@ Node js is a single thread
 3> Require modules 
 4> Register the event callbacks
 5> Start the event loop
+
+
+# There are four thread pool size which is used to handle complex callback functions
+ But we can change that size lets to that
+ 1> process.env.UV_THREADPOOL_SIZE = 1;
