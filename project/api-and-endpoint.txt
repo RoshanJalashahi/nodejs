@@ -1,0 +1,7 @@
+1> http Get method is used to read resources for the client  for respond i.e to send data to the client
+2> http post method is to create new resources no id is sent. for rquest i.e we expect to data come in with request.
+3> for updating resoueces there are two methods 
+           i> put method  the client needs to send entire updated object
+           ii> patch method the client needs to send only the part of object i.e changed.
+4> for deleting resources delete http method is used. 
+
